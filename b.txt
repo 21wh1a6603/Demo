@@ -1,1 +1,2 @@
 Edit from b1
+Edited content in b.txt (b1)
